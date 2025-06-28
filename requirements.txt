@@ -103,7 +103,7 @@ pure-eval
 pyasn1==0.6.1
 pyasn1-modules==0.4.2
 pycparser
-pydantic==1.10.15
+pydantic==1.10.7
 pydantic_core==2.33.2
 Pygments
 PyMatting==1.1.14
@@ -141,7 +141,7 @@ terminado
 threadpoolctl==3.6.0
 tifffile==2025.6.11
 tinycss2
-tokenizers==0.19.1
+tokenizers==0.13.3
 torch==2.7.1
 torchvision==0.22.1
 tornado
