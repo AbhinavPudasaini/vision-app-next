@@ -1,7 +1,6 @@
 Flask==3.1.1
-pydantic==1.10.7
-transformers==4.29.2
-tokenizers==0.13.3
+transformers==4.52.4
+tokenizers==0.21.1
 insightface==0.7.3
 faiss-cpu==1.7.3
 numpy==1.24.4
