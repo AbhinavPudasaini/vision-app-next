@@ -113,7 +113,6 @@ pyreadline3==3.5.4
 PySocks
 python-dateutil
 python-json-logger
-pywin32==308
 pywinpty
 PyYAML
 pyzmq
